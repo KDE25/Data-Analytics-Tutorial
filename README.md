@@ -1,7 +1,7 @@
 # 📊 Data Analytics Tutorial
 
-This repository contains a collection of Python Data Analytics tutorials, structured step-by-step from programming basics to machine learning implementation and model evaluation.
-The materials are designed for students, lecturers, and beginners to intermediate practitioners who want to build a strong foundation in data analytics.
+This repository contains a collection of **Python Data Analytics tutorials**, structured step-by-step from programming basics to machine learning implementation and model evaluation.
+The materials are designed for **students, lecturers, and beginners to intermediate practitioners** who want to build a strong foundation in data analytics.
 
 ---
 
