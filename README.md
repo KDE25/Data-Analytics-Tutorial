@@ -1,71 +1,71 @@
 # 📊 Data Analytics Tutorial
 
-Repository ini berisi **kumpulan tutorial Data Analytics menggunakan Python**, disusun secara bertahap dari dasar pemrograman hingga penerapan machine learning dan evaluasi model.  
-Materi dirancang untuk **mahasiswa, dosen, dan praktisi pemula–menengah** yang ingin membangun fondasi kuat di bidang analisis data.
+This repository contains a collection of Python Data Analytics tutorials, structured step-by-step from programming basics to machine learning implementation and model evaluation.
+The materials are designed for students, lecturers, and beginners to intermediate practitioners who want to build a strong foundation in data analytics.
 
 ---
 
-## 🎯 Tujuan Pembelajaran
-Setelah mempelajari materi dalam repository ini, pembaca diharapkan mampu:
-- Memahami dasar pemrograman Python untuk analisis data
-- Melakukan eksplorasi, pembersihan, dan transformasi data
-- Menerapkan analisis statistik deskriptif dan inferensial
-- Membangun model machine learning (supervised & unsupervised)
-- Mengevaluasi performa model dan memahami isu generalisasi
+## 🎯 Learning Objective
+After learning the material in this repository, readers are expected to be able to:
+- Understand the basics of Python programming for data analysis
+- Perform data exploration, cleaning, and transformation
+- Apply descriptive and inferential statistical analysis
+- Build machine learning models (supervised and unsupervised)
+- Evaluate model performance and understand generalization issues
 
 ---
 
-## 📂 Daftar Materi
+## 📂 List of Material
 
-1. **Basic Python Programming**  
-   Dasar-dasar Python untuk analisis data: variabel, struktur data, kontrol alur, dan fungsi.
+1. **Basic Python Programming**
+Python fundamentals for data analysis: variables, data structures, control flow, and functions.
 
-2. **Descriptive and Inferential Statistics in Python**  
-   Statistik deskriptif, probabilitas, serta pengantar inferensi statistik.
+2. **Descriptive and Inferential Statistics in Python**
+Descriptive statistics, probability, and an introduction to statistical inference.
 
-3. **Data Cleansing and Preprocessing**  
-   Penanganan missing values, outliers, encoding, dan scaling data.
+3. **Data Cleansing and Preprocessing**
+Handling missing values, outliers, encoding, and scaling data.
 
-4. **Data Summarization, Data Aggregation, and Visualization in Python**  
-   Ringkasan data, agregasi, dan visualisasi menggunakan library Python.
+4. **Data Summarization, Data Aggregation, and Visualization in Python**
+Data summarization, aggregation, and visualization using Python libraries.
 
-5. **Sales Trends and Product Performance Analysis in Python**  
-   Analisis tren penjualan dan performa produk berbasis data historis.
+5. **Sales Trends and Product Performance Analysis in Python**
+Analysis of sales trends and product performance based on historical data.
 
-6. **Customer Behavior – Customer Churn Modeling**  
-   Pemodelan churn pelanggan untuk memahami faktor penyebab kehilangan pelanggan.
+6. **Customer Behavior – Customer Churn Modeling**
+Modeling customer churn to understand the factors causing customer loss.
 
-7. **Customer Behavior – Customer Segmentation**  
-   Segmentasi pelanggan menggunakan pendekatan analitik dan clustering.
+7. **Customer Behavior – Customer Segmentation**
+Customer segmentation using analytical and clustering approaches.
 
-8. **Model Assumption Checking**  
-   Pemeriksaan asumsi model statistik dan regresi.
+8. **Model Assumption Checking**
+Checking the assumptions of statistical and regression models.
 
-9. **Supervised Learning – Classification**  
-   Konsep dan implementasi model klasifikasi.
+9. **Supervised Learning – Classification**
+Concept and implementation of classification models.
 
-10. **Supervised Learning – Linear Regression**  
-    Pemodelan regresi linear dan interpretasi hasil.
+10. **Supervised Learning – Linear Regression**
+Linear regression modeling and interpretation of results.
 
-11. **Unsupervised Learning**  
-    Clustering dan dimensionality reduction.
+11. **Unsupervised Learning**
+Clustering and dimensionality reduction.
 
-12. **Model Evaluation**  
-    Evaluasi performa model menggunakan berbagai metrik.
+12. **Model Evaluation**
+Evaluating model performance using various metrics.
 
-13. **Recommendation System**  
-    Pengantar sistem rekomendasi berbasis data.
+13. **Recommendation System**
+Introduction to data-driven recommendation systems.
 
-14. **Generalization, Underfitting, Overfitting**  
-    Analisis bias–variance tradeoff dan generalisasi model.
+14. **Generalization, Underfitting, Overfitting**
+Bias–variance tradeoff analysis and model generalization.
 
-15. **Imbalanced Classification**  
-    Penanganan data tidak seimbang dalam klasifikasi.
+15. **Imbalanced Classification**
+Handling imbalanced data in classification.
 
 ---
 
 ## 🛠️ Tools & Library
-Beberapa library utama yang digunakan:
+Some of the main libraries used:
 - `numpy`
 - `pandas`
 - `matplotlib` / `seaborn`
